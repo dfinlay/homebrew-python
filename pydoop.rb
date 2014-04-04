@@ -22,7 +22,7 @@ class JavaHome < Requirement
 end
 
 class Pydoop < Formula
-  homepage 'http://http://pydoop.sourceforge.net/'
+  homepage 'http://pydoop.sourceforge.net/'
   url 'https://downloads.sourceforge.net/project/pydoop/Pydoop-0.10/pydoop-0.10.0.tar.gz'
   sha1 '8e2bc6d69a6bf64350ca52b3b86df3f194df8512'
 
